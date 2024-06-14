@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013866797813",
+    "project_id": "appfacturas-cb0b6",
+    "storage_bucket": "appfacturas-cb0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013866797813:android:0d608b42d79e14c65e83bc",
+        "android_client_info": {
+          "package_name": "com.serrb.tfg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNz5-YSUPbRhSunenR4jwUVjtCal5o-RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
